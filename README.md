@@ -74,8 +74,10 @@ PRs and suggestions are welcome! If you’d like to improve this theme, fork it 
 This theme is released under the GPL-2.0 License
 .
 
-👤  Author: JAY
-🌐  url: [https://WebJfix.com](https://webjfix.com)
+
+Developed by **Jay** at [VarahiAI](https://varahiai.com).
+
+🌐 [Visit VarahiAI](https://varahiai.com) — Web Development & AI Automation
 
 
 
