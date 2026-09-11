@@ -44,7 +44,7 @@ webjfix-starter-theme/
 ## 🚀 Installation
 1. Download the theme or clone this repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/webjfix-starter-theme.git
+  git clone https://github.com/JAY21121967/webjfix-starter-theme.git
 
 2. Upload the folder to your WordPress installation:
 /wp-content/themes/webjfix-starter-theme
